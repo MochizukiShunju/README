@@ -1,4 +1,4 @@
-SCS(stock_control_system)
+# SCS(stock_control_system)
 
 ## サイト概要
 部品の在庫管理システム
